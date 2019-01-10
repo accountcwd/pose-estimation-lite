@@ -1,0 +1,9 @@
+human_detection/output
+
+*.npy
+*.so
+*.pyc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
+
+alphapose/models/yolo/yolov3.weights
